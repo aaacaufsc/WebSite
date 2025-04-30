@@ -5,7 +5,7 @@
 ### Tarefas a serem feitas
 - [ ] Recolher fotos e frases da gestão
 - [ ] Fazer área de membros da gestão
-- [ ] Atualizar vídeo do restaurante
-- [ ] Atualizar a palavra instagram dos link
+- [✅] Atualizar vídeo do restaurante
+- [✅] Atualizar a palavra instagram dos link
 - [ ] Atualizar a área de transparência
 > **Observação:** Prazos quando der tempo kkkkkk
